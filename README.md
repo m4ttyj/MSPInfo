@@ -8,4 +8,4 @@ JSON Setting for SysTrayIcon. Enabling will prevent app from quitting, and will 
 Show System Uptime (Need to confirm data is correct)<br>
 <p>
 Fixes:<br>
-
+Windows should now live in the bottom right corner of the screen
